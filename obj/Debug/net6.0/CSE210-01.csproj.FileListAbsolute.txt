@@ -1,0 +1,15 @@
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\bin\Debug\net6.0\CSE210-01.exe
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\bin\Debug\net6.0\CSE210-01.deps.json
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\bin\Debug\net6.0\CSE210-01.runtimeconfig.json
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\bin\Debug\net6.0\CSE210-01.dll
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\bin\Debug\net6.0\ref\CSE210-01.dll
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\bin\Debug\net6.0\CSE210-01.pdb
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\obj\Debug\net6.0\CSE210-01.csproj.AssemblyReference.cache
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\obj\Debug\net6.0\CSE210-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\obj\Debug\net6.0\CSE210-01.AssemblyInfoInputs.cache
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\obj\Debug\net6.0\CSE210-01.AssemblyInfo.cs
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\obj\Debug\net6.0\CSE210-01.csproj.CoreCompileInputs.cache
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\obj\Debug\net6.0\CSE210-01.dll
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\obj\Debug\net6.0\ref\CSE210-01.dll
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\obj\Debug\net6.0\CSE210-01.pdb
+C:\Users\Anna Taylor\Documents\winter 2022\C#\CSE210-01\obj\Debug\net6.0\CSE210-01.genruntimeconfig.cache
